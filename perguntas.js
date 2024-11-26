@@ -68,4 +68,4 @@ criaCartao(
     'matemática',
     'O que é hipotenusa?',
     'significa, em geometria, o lado de um triângulo retângulo, oposto ao ângulo reto.',
-    
+)
